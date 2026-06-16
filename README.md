@@ -60,3 +60,7 @@ python app.py
   <b>Built by:</b> <a href="https://huggingface.co/LADDOO22212015">LADDOO22212015</a><br>
   <i>Forging the absolute future of open-source autonomous agents.</i>
 </div>
+
+
+### 🧠 Preferred Model
+> `deepseek-ai/deepseek-coder-33b-instruct` — Advanced code analysis and vulnerability detection.
